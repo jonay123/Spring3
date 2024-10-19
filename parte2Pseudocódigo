@@ -1,0 +1,19 @@
+declarar variables necesarias
+- nombre y apellidos del usuario
+- int hermano en el centro
+- población
+- población de los padres
+- discapacidad
+- familia numerosa
+- padre madre tutor o hermano escolarizado en la misma escuela
+ 
+declarar un bucle while para que se cumpla cuando un usuario entre y tenga que registrarse
+
+después hacer un scanner donde el usuario respondera a las preguntas respondiendo 0 ó 1 en cada caso
+
+ahora tendremos que encargarnos de sumar los puntos, en el caso de la proximidad se hará un if y solo sumaremos la que tenga mas puntos
+
+a continuación haremos los cálculos de las demás preguntas simplemente sumando los puntos
+
+después imprimiremos por pantalla la puntuación final y se registrara el nombre del usuario con el numero de puntos en un array donde se acabará el bucle y se volvera a repetir para el siguiente usuario
+
